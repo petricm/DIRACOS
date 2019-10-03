@@ -123,6 +123,11 @@
                   "name": "openldap"
                },
                {
+                  "comment": "Needed for easier operations",
+                  "src": "https://diracos.web.cern.ch/diracos/SRPM/less-436-13.el6.src.rpm",
+                  "name": "less"
+               },
+               {
                   "comment": "Needed by PyQt4 and git and needs python ABI",
                   "src": "https://diracos.web.cern.ch/diracos/SRPM/asciidoc-8.4.5-4.1.el6.src.rpm",
                   "name": "asciidoc",
